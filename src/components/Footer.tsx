@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 export default function Footer() {
-  const classes = useStyles();
+  /*const classes = useStyles();
   return (
     <footer className={classes.footer}>
       <Typography variant="body2" gutterBottom>
@@ -52,5 +52,5 @@ export default function Footer() {
         Github
       </Button>
     </footer>
-  );
+  );*/
 }
